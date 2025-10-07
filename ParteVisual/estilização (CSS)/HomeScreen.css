@@ -1,0 +1,26 @@
+body {
+  background-color: #f0f0f0; 
+  font-family: Arial, sans-serif; 
+  color: #333333; 
+  margin: 0; 
+  padding: 0; 
+}
+h1 {
+  color: #0055aa;
+  text-align: center;
+}
+p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+.botao {
+  background-color: #008CBA;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.botao:hover {
+  background-color: #006f94;
+}
